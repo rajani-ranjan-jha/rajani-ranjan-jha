@@ -1,7 +1,47 @@
 # Rajani Ranjan Jha
 
 # 💫 About Me:
-Currently perusing Bachelors' degree at IIT Patna<br>Web Developer 
+Hi, I’m Rajani Ranjan Jha, an undergraduate student at IIT Patna, passionate about building reliable software systems and continuously improving my problem-solving skills.
+
+🔧 Technical Interests
+
+Data Structures & Algorithms
+
+Web Development (HTML, CSS, JavaScript)
+
+Python for automation and desktop applications
+
+Computer Science fundamentals: OS, CN, DBMS, AI
+
+🚀 Projects & Experience
+
+GUVI (HCL) Internship – 3 Months
+
+Weather Application
+
+Chat-Z (Chat Application)
+
+Movie-Master (Movie App)
+
+Personal projects involving:
+
+Browser automation
+
+Desktop utilities
+
+Interactive UI and animations
+
+AI-assisted concepts and experimentation
+
+📚 Currently Working On
+
+Strengthening DSA with real problem-solving
+
+Building portfolio-ready web applications
+
+Exploring AI-powered tools and assistants
+
+I believe in learning by building, writing clean code, and understanding systems from the ground up. Always open to collaboration and meaningful discussions.
 
 
 ## 🌐 Socials:
