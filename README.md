@@ -1,47 +1,51 @@
 # Rajani Ranjan Jha
 
 # 💫 About Me:
-Hi, I’m Rajani Ranjan Jha, an undergraduate student at IIT Patna, passionate about building reliable software systems and continuously improving my problem-solving skills.
+Hello, I am Rajani Ranjan Jha, an undergraduate student at IIT Patna. I am interested in developing robust software systems and enhancing my problem-solving capabilities.
 
-🔧 Technical Interests
+## 🔧 Technical Interests
 
-Data Structures & Algorithms
+- Data Structures & Algorithms
 
-Web Development (HTML, CSS, JavaScript)
+- Web Development (HTML, CSS, and JavaScript)
 
-Python for automation and desktop applications
+- Python for automation and desktop applications
 
-Computer Science fundamentals: OS, CN, DBMS, AI
+- Computer science : OS, CN, DBMS, AI, ML
 
-🚀 Projects & Experience
+## 🚀 Projects & Experience
+- Basic Projects
+    - Todo App
 
-GUVI (HCL) Internship – 3 Months
+    - Unit Converter App
 
-Weather Application
+    - Quiz App
 
-Chat-Z (Chat Application)
+    - QR-code Generator
 
-Movie-Master (Movie App)
+    - Tic-Tac-Toe Game
 
-Personal projects involving:
+- GUVI (HCL) Internship – 3 Months
 
-Browser automation
+    - Weather Application
 
-Desktop utilities
+    - Chat-Z (Chat Application)
 
-Interactive UI and animations
+    - Movie-Master (Movie App)
 
-AI-assisted concepts and experimentation
+- Attendance Management System (Python)
 
-📚 Currently Working On
 
-Strengthening DSA with real problem-solving
+## 📚 Currently Working On
 
-Building portfolio-ready web applications
+- Strengthening DSA through Real-World Problem
 
-Exploring AI-powered tools and assistants
+- Creating portfolio-ready web apps
 
-I believe in learning by building, writing clean code, and understanding systems from the ground up. Always open to collaboration and meaningful discussions.
+- Unveiling AI-enabled tools and assistants
+
+I am a firm believer in learning via build, writing clean code, and learning systems from the roots up. Always ready to assist and have a constructive conversation.
+
 
 
 ## 🌐 Socials:
