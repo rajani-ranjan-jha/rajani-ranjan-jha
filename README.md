@@ -42,12 +42,7 @@ Hello, I am Rajani Ranjan Jha, an undergraduate student at IIT Patna. I am inter
 
 I am a firm believer in learning via build, writing clean code, and learning systems from the roots up. Always ready to assist and have a constructive conversation.
 
-
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-
-
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)
 
 
 ## 🌐 Socials:
