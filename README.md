@@ -1,7 +1,7 @@
 <h1 align="center">Rajani Ranjan Jha</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Final+Year+B.Sc+CSDA+%40+IIT+Patna;Full-Stack+Developer;350%2B+LeetCode+Problems+Solved;Building+Products+That+Solve+Real+Problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=098516&center=true&vCenter=true&width=620&lines=IIT+Patna+Graduate;Full-Stack+Developer;Solved+400%2B+LeetCode+Problems;Building+Products+That+Solve+Real+Problems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ---
 
-Final-year undergraduate at **IIT Patna** · B.Sc Computer Science & Data Analytics · **CPI: 9.16 / 10**
+**IIT Patna** Graduate· B.Sc Computer Science & Data Analytics · **CGPA: 9.08 / 10**
 
 Focused on full-stack development (React / Next.js) and DSA — targeting SDE roles at product-first companies.
 
